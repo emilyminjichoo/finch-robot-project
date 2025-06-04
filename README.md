@@ -116,3 +116,30 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+## Project description and objectives
+- Our challenge was to create a dance, using movement, lights, and notes with the finch robot
+- Our robot dances to the song "Cupid Shuffle"
+- It uses lights to signal left and right
+- The notes, the lights, and the movement corresponds to the rhythm of the song
+
+## Description of design choices
+- We searched up what color was fit for right and left, so we used red for right and blue for left
+- We made the turn early to keep in rhythm with the song, as the Finch robot's turns weren't fast enough
+- We made the spins to make the dance lively
+
+## Challenges faced and solutions
+Challenge: 
+- robot was unable to keep up to the rhythm of the song (timing)
+Solutions:
+-changed the speed of the song
+- changed the movement lengths and pauses to match the song
+
+## Future enhancements
+- finish the entire song
+- add more colors
+- make the notes match the song
+- challenge ourselves by putting the speed back to normal
+
+## Videos or images of your Finch in action
+- [![Video Title](file:///C:/Users/echo0043/Downloads/FinchRobot.jpg)](https://youtube.com/shorts/M__9PyHHLZI)
