@@ -142,4 +142,4 @@ Solutions:
 - challenge ourselves by putting the speed back to normal
 
 ## Videos or images of your Finch in action
-- [![Video Title](file:///C:/Users/echo0043/Downloads/FinchRobot.jpg)](https://youtube.com/shorts/M__9PyHHLZI)
+- [![Video Title](file:///C:/Users/echo0043/Downloads/FinchRobot.jpg)](https://youtube.com/shorts/KCVv2GATPRU)
